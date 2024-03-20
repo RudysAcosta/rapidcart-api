@@ -1,0 +1,346 @@
+[
+  {
+    "id": 159,
+    "title": "Pantalla Samsung",
+    "price": 6779,
+    "description": "Electrodoméstico",
+    "images": [
+      "https://www.sneakersnstuff.com/images/406499/product_large.jpg",
+      "https://www.sneakersnstuff.com/images/406502/product_large.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:14.000Z",
+    "updatedAt": "2024-03-19T01:04:15.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 160,
+    "title": "Pantalla Samsung",
+    "price": 8795,
+    "description": "Electrodoméstico",
+    "images": [
+      "https://www.sneakersnstuff.com/images/406088/AURORA_DV0833-102_PHSRH000-2000.jpg",
+      "https://www.sneakersnstuff.com/images/406089/AURORA_DV0833-102_PHCFH001-2000.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:14.000Z",
+    "updatedAt": "2024-03-19T01:04:15.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 161,
+    "title": "Pantalla Samsung",
+    "price": 5545,
+    "description": "Electrodoméstico",
+    "images": [
+        "https://www.sneakersnstuff.com/images/412974/product_large.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:15.000Z",
+    "updatedAt": "2024-03-19T01:04:15.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 162,
+    "title": "Pantalla Samsung",
+    "price": 2420,
+    "description": "Electrodoméstico",
+    "images": [
+      "https://www.sneakersnstuff.com/images/406567/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:15.000Z",
+    "updatedAt": "2024-03-19T01:04:16.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 163,
+    "title": "Pantalla Samsung",
+    "price": 5607,
+    "description": "Electrodoméstico",
+    "images": [
+       "https://www.sneakersnstuff.com/images/413046/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:15.000Z",
+    "updatedAt": "2024-03-19T01:04:16.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 164,
+    "title": "Pantalla Samsung",
+    "price": 9862,
+    "description": "Electrodoméstico",
+    "images": [
+      "https://www.sneakersnstuff.com/images/415049/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:15.000Z",
+    "updatedAt": "2024-03-19T01:04:16.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 165,
+    "title": "Pantalla Samsung",
+    "price": 5107,
+    "description": "Electrodoméstico",
+    "images": [
+      "https://www.sneakersnstuff.com/images/415026/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:16.000Z",
+    "updatedAt": "2024-03-19T01:04:16.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 166,
+    "title": "Pantalla Samsung",
+    "price": 5050,
+    "description": "Electrodoméstico",
+    "images": [
+      "https://www.sneakersnstuff.com/images/414630/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:16.000Z",
+    "updatedAt": "2024-03-19T01:04:17.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 167,
+    "title": "Pantalla Samsung",
+    "price": 6836,
+    "description": "Electrodoméstico",
+    "images": [
+      "https://www.sneakersnstuff.com/images/412099/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:16.000Z",
+    "updatedAt": "2024-03-19T01:04:17.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 168,
+    "title": "Pantalla Samsung",
+    "price": 4955,
+    "description": "Electrodoméstico",
+    "images": [
+      "https://www.sneakersnstuff.com/images/406496/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:16.000Z",
+    "updatedAt": "2024-03-19T01:04:17.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 169,
+    "title": "Pantalla Samsung",
+    "price": 9726,
+    "description": "Electrodoméstico",
+    "images": [
+      "https://www.sneakersnstuff.com/images/415049/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:16.000Z",
+    "updatedAt": "2024-03-19T01:04:17.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 170,
+    "title": "Pantalla Samsung",
+    "price": 3162,
+    "description": "Electrodoméstico",
+    "images": [
+      "https://www.sneakersnstuff.com/images/414561/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:17.000Z",
+    "updatedAt": "2024-03-19T01:04:17.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 171,
+    "title": "Pantalla Samsung",
+    "price": 4446,
+    "description": "Electrodoméstico",
+    "images": [
+      "https://www.sneakersnstuff.com/images/411408/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:17.000Z",
+    "updatedAt": "2024-03-19T01:04:18.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 172,
+    "title": "Pantalla Samsung",
+    "price": 8953,
+    "description": "Electrodoméstico",
+    "images": [
+      "https://www.sneakersnstuff.com/images/412700/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:17.000Z",
+    "updatedAt": "2024-03-19T01:04:18.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 173,
+    "title": "feliz ",
+    "price": 13579,
+    "description": "me vale verga",
+    "images": [
+      "https://www.sneakersnstuff.com/images/356707/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:17.000Z",
+    "updatedAt": "2024-03-19T01:56:44.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 174,
+    "title": "feliz",
+    "price": 13579,
+    "description": "me vale verga",
+    "images": [
+      "https://www.sneakersnstuff.com/images/414534/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:17.000Z",
+    "updatedAt": "2024-03-19T01:56:16.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 175,
+    "title": "Pantalla Samsung",
+    "price": 9814,
+    "description": "Electrodoméstico",
+    "images": [
+      "https://www.sneakersnstuff.com/images/409038/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:18.000Z",
+    "updatedAt": "2024-03-19T01:04:19.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 176,
+    "title": "Pantalla Samsung",
+    "price": 6471,
+    "description": "Electrodoméstico",
+    "images": [
+        "https://www.sneakersnstuff.com/images/411436/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:18.000Z",
+    "updatedAt": "2024-03-19T01:04:19.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  },
+  {
+    "id": 177,
+    "title": "Pantalla Samsung",
+    "price": 3352,
+    "description": "Electrodoméstico",
+    "images": [
+      "https://www.sneakersnstuff.com/images/412267/card_xsmall.jpg"
+    ],
+    "creationAt": "2024-03-19T01:04:18.000Z",
+    "updatedAt": "2024-03-19T01:04:19.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-03-18T05:09:12.000Z",
+      "updatedAt": "2024-03-18T05:09:12.000Z"
+    }
+  }
+]
