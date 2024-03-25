@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from config.database import Session, engine, Base
-from app.models.category import Category as CategoryModel
+# from app.models.category import Category as CategoryModel
 from app.routers import category as category_router
 
 
