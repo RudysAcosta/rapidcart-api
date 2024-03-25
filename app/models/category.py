@@ -1,7 +1,6 @@
 from sqlalchemy.schema import CreateTable
 from sqlalchemy import Column, Integer, String,TIMESTAMP
 from sqlalchemy.sql import func
-from sqlalchemy.dialects import mysql
 from config.database import Base
 
 

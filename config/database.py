@@ -9,7 +9,7 @@ load_dotenv()
 enviroment = os.environ.get('ENVIRONMENT', 'development')
 
 DB_NAME = os.environ.get('DB_NAME', 'db_rapidcart')
-DB_USER_NAME = os.environ.get('DB_USER', 'user_rapidcart')
+DB_USER_NAME = os.environ.get('DB_USER_NAME', 'user_rapidcart')
 DB_PASSWORD = os.environ.get('DB_PASSWORD', 'pass_rapidcart')
 DB_HOST = os.environ.get('DB_HOST', 'localhost')
 
