@@ -10,7 +10,7 @@ class CategoryService():
     def get_categories(self):
         return self.db.query(CategoryModel).all()
     
-    def get_category(self):
+    def get_category(self, id: int):
         return self.db.query(CategoryModel).filter(CategoryModel.id == id).first()
     
     def create(self, data: Category):

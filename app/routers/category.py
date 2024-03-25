@@ -15,6 +15,11 @@ def get_categories():
     result = CategoryService(db).get_categories()
     return JSONResponse(status_code=200, content=jsonable_encoder(result))
 
+@router.get('/categories/{id}', tags=['setting'], status_code=200)
+def get_category(id: int):
+    db = Session()
+    result = CategoryService(db).get_category(id)
+    return JSONResponse(status_code=200, content=jsonable_encoder(result))
 
 @router.post('/categories', tags=['setting'], response_model=Category, status_code=201)
 def create_category(category: Category):
