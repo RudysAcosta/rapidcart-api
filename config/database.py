@@ -3,6 +3,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm.session import sessionmaker
 from sqlalchemy.orm import DeclarativeBase
 from dotenv import load_dotenv
+import databases
 
 load_dotenv()
 
@@ -16,9 +17,19 @@ DB_HOST = os.environ.get('DB_HOST', 'localhost')
 
 # TODO: Create a database connection for text database
 
-database_url = f"mysql+mysqlconnector://{DB_USER_NAME}:{DB_PASSWORD}@{DB_HOST}/{DB_NAME}"
+if enviroment == 'testing':
+    sqlite_file_name = "../database_test.sqlite"
+    base_dir = os.path.dirname(os.path.realpath(__file__))
 
-engine = create_engine(database_url)
+    # Remove sqlite file if exists before create a new one
+    if os.path.exists(sqlite_file_name):
+        os.remove(os.path.join(base_dir, sqlite_file_name))
+
+    database = f"sqlite:///{os.path.join(base_dir, sqlite_file_name)}"
+else:
+    database = f"mysql+mysqlconnector://{DB_USER_NAME}:{DB_PASSWORD}@{DB_HOST}/{DB_NAME}"
+
+engine = create_engine(database)
 
 Session = sessionmaker(bind=engine)
 

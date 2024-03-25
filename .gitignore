@@ -13,3 +13,5 @@ venv/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+database_test.sqlite

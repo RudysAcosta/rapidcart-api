@@ -14,7 +14,6 @@ app.include_router(category_router.router)
 
 Base.metadata.create_all(bind=engine)
 
-
-@app.get('/', tags=['Home'])
-def read_root():
-    return {"Hello": "World"}
+if __name__ == '__main__':
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8080)
