@@ -4,6 +4,7 @@ from fastapi.encoders import jsonable_encoder
 from config.database import Session
 from app.schemas.category import Category
 from app.services.category import CategoryService
+from app.models.category import Category as CategoryModel
 from sqlalchemy.exc import IntegrityError
 
 
@@ -30,3 +31,15 @@ def create_category(category: Category):
         return JSONResponse(status_code=400, content=jsonable_encoder({'message': str(e)}))
 
     return JSONResponse(status_code=201, content=jsonable_encoder(result))
+
+@router.put('/categories/{id}', tags=['setting'], status_code=200)
+def update_category(id: int, category: Category):
+    db = Session()
+    
+    try:
+        result = CategoryService(db).update(id, category)
+    except Exception as e:
+        return JSONResponse(status_code=400, content=jsonable_encoder({'message': str(e)}))
+
+
+    return JSONResponse(status_code=200, content=jsonable_encoder(result))
