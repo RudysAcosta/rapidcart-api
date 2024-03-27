@@ -1,5 +1,5 @@
 from datetime import datetime
-from typing import Optional
+from typing import Optional, List
 from pydantic import BaseModel
 
 class Category(BaseModel):
@@ -8,6 +8,8 @@ class Category(BaseModel):
     image: Optional[str] = None
     createdAt: Optional[datetime] = None
     updatedAt: Optional[datetime] = None
+
+    products: List['Product'] = []
 
     class Config:
         json_schema_extra = {
@@ -18,3 +20,5 @@ class Category(BaseModel):
                 "updatedAt": "2024-03-18T05:09:12.000Z"
             }
         }
+
+from .product import Product
